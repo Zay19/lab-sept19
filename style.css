@@ -1,77 +1,15 @@
-
-div {
-    border: 1px solid orange;
+html{
+    background-color: royalblue
 }
 
-.intro {
-      
-    
-    }
-
-#boxed{
-    border: 1.5px solid red;
-    text-align: right;
-    width: 100%;
-    padding: 10px;
-    margin:auto;
-    background-color: grey;
-        
-
+h1{
+    color: red;
 }
 
-.parallax-container{
-    width: 100%;
-    right: 0%;
+.friend{
+    background-color: brown;
 }
 
-h3, h4, h5 ,h6 {
-    margin: 100px;
-    border-bottom: solid;
-    font-weight: bold;
-    font-size: 3em;
-
+p{
+    text-transform: u
 }
-
-.dungeon{
-
-    margin: 100px;
- word-break: break-word;
- color: gray;
-    text-align: left;
-}
-
-.pluto{
-     margin: 100px;
- word-break: break-word;
- color: gray;
-    text-align: left;
-}
-
-.freebandz{
-     margin: 100px;
- word-break: break-word;
- color: gray;
-    text-align: left;
-}
-
-.hendrix{
-     margin: 100px;
- word-break: break-word;
- color: gray;
-    text-align: left;
-}
-
-
-
-    img{
-        width: 100%;
-        height: 20em;
-       
-    }
-
-   video {
-object-fit: contain;
-height: auto;
-width: 100%;
-
-    }
